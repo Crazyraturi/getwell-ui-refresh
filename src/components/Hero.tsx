@@ -39,8 +39,8 @@ const Hero = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 bg-getwell-teal/10 rounded-full absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 animate-pulse"></div>
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
-                alt="Person using GoGetWell.ai" 
+                src="https://gogetwell.ai/assets/our_mission-nN9YP0Qb.gif" 
+                alt="GoGetWell.ai Mission Animation" 
                 className="relative z-10 rounded-lg shadow-xl animate-float"
               />
               <div className="absolute -bottom-6 -right-6 bg-white p-4 rounded-lg shadow-lg z-20 animate-float">
