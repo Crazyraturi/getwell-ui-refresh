@@ -9,19 +9,19 @@ const HowItWorks = () => {
       number: "01",
       title: "Sign Up for Free",
       description: "Create your account in seconds with just your email. No credit card required to get started.",
-      imgSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      imgSrc: "/lovable-uploads/a7397efa-e597-487d-b756-f947a3264b7b.png",
     },
     {
       number: "02",
       title: "Share Your Symptoms",
       description: "Describe your symptoms to our AI in natural language, just like you would with a real doctor.",
-      imgSrc: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      imgSrc: "/lovable-uploads/66d601e9-57fc-4855-be17-463c0e80306e.png",
     },
     {
       number: "03",
       title: "Get Instant Analysis",
       description: "Receive AI-generated health insights, possible conditions, and recommended next steps.",
-      imgSrc: "https://images.unsplash.com/photo-1473091534298-04dcbce3278c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      imgSrc: "/lovable-uploads/36d14572-682f-43fe-976a-58ae38ed94c9.png",
     },
   ];
 
